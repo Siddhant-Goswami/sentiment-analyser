@@ -1,5 +1,7 @@
 # sentiment-analyser
 
+A javascript sentiment analyser using BrainJS.
+
 ## Get Started
 
 ### 1. System Requirements
